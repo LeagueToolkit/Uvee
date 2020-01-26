@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvee", "Uvee\Uvee.csproj", "{BEC4DD0B-9B2B-461A-A5EB-C691CE0AFCF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC4DD0B-9B2B-461A-A5EB-C691CE0AFCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC4DD0B-9B2B-461A-A5EB-C691CE0AFCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC4DD0B-9B2B-461A-A5EB-C691CE0AFCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC4DD0B-9B2B-461A-A5EB-C691CE0AFCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0354C1D-23F1-4746-BC80-B15C75CD8163}
+	EndGlobalSection
+EndGlobal
